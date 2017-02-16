@@ -1,10 +1,11 @@
-package com.example.aarya.learntocrack;
+package com.example.aarya.learntocrack.activity;
 
-import android.app.LauncherActivity;
 import android.content.Intent;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.aarya.learntocrack.R;
 
 public class Launcher extends AppCompatActivity {
 
