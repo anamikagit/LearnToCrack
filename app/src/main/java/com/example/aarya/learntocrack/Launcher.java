@@ -21,15 +21,5 @@ public class Launcher extends AppCompatActivity {
                 Launcher.this.finish();
             }
         },5000);
-
-      /* new Handler().postDelayed(new Runnable() {
-                        @Override
-                        public void run() {
-                                final Intent mainIntent = new Intent(Launcher.this, MainActivity.class);
-                                Launcher.this.startActivity(mainIntent);
-                                Launcher.this.finish();
-                            }
-                 }, 5000);*/
-
     }
 }
